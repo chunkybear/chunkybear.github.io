@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: testing | My Octopress Blog]]></title>
+  <title><![CDATA[Category: testing | The Chunkybear]]></title>
   <link href="http://chunkybear.github.io/blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://chunkybear.github.io/"/>
-  <updated>2014-05-23T03:54:57+07:00</updated>
+  <updated>2014-05-23T04:16:45+07:00</updated>
   <id>http://chunkybear.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[chunkybear]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
