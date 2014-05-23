@@ -4,7 +4,7 @@
   <title><![CDATA[The Chunkybear]]></title>
   <link href="http://chunkybear.github.io/atom.xml" rel="self"/>
   <link href="http://chunkybear.github.io/"/>
-  <updated>2014-05-24T01:31:41+07:00</updated>
+  <updated>2014-05-24T02:22:35+07:00</updated>
   <id>http://chunkybear.github.io/</id>
   <author>
     <name><![CDATA[chunkybear]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[<h5 align="center">I love Java</h5>]]></title>
+    <title type="html"><![CDATA[<h5 align="center">I Love Java</h5>]]></title>
     <link href="http://chunkybear.github.io/blog/2014/05/23/i-love-java/"/>
     <updated>2014-05-23T09:51:56+07:00</updated>
     <id>http://chunkybear.github.io/blog/2014/05/23/i-love-java</id>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[<h6>Bermain dengan Octopress</h6>]]></title>
+    <title type="html"><![CDATA[<h6>Bermain Dengan Octopress</h6>]]></title>
     <link href="http://chunkybear.github.io/blog/2014/05/23/bermain-dengan-octopress/"/>
     <updated>2014-05-23T09:44:49+07:00</updated>
     <id>http://chunkybear.github.io/blog/2014/05/23/bermain-dengan-octopress</id>
